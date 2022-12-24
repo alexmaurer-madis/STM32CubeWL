@@ -1,3 +1,11 @@
+# STM32CubeWL adapted for platformio
+
+![latest tag](https://img.shields.io/github/v/tag/alexmaurer-madis/STM32CubeWL)
+
+- Adding package.json
+- Removing unnecessary directories
+  
+
 # STM32CubeWL MCU Firmware Package
 
 ![latest tag](https://img.shields.io/github/v/tag/STMicroelectronics/STM32CubeWL.svg?color=brightgreen)
